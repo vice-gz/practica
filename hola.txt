@@ -1,4 +1,2 @@
-hola mundo, esto es un cambio en esta version
-
-cambio 1.0.1
-
+hola mundo
+adios mundo
